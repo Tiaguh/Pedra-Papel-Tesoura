@@ -1,0 +1,17 @@
+	switch (computer){
+				case 1:
+					switch (user){
+				case 1:
+					MessageBox.Show("Essa rodada empatou");
+				break;
+				
+				case 2:
+				MessageBox.Show("Computador venceu");
+				}
+				
+				case 3:
+					MessageBox.Show("Você venceu");
+					break;
+			}		
+			
+		

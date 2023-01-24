@@ -1,0 +1,64 @@
+C:\Users\Tiago\Tiago\Etec\PA\Pedra Papel Tesoura\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\bin\Debug\Pedra Papel Tesoura Project.exe.config
+C:\Users\Tiago\Tiago\Etec\PA\Pedra Papel Tesoura\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\bin\Debug\Pedra Papel Tesoura Project.exe
+C:\Users\Tiago\Tiago\Etec\PA\Pedra Papel Tesoura\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\bin\Debug\Pedra Papel Tesoura Project.pdb
+C:\Users\Tiago\Tiago\Etec\PA\Pedra Papel Tesoura\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.csprojResolveAssemblyReference.cache
+C:\Users\Tiago\Tiago\Etec\PA\Pedra Papel Tesoura\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra_Papel_Tesoura_Project.MainForm.resources
+C:\Users\Tiago\Tiago\Etec\PA\Pedra Papel Tesoura\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.csproj.GenerateResource.Cache
+C:\Users\Tiago\Tiago\Etec\PA\Pedra Papel Tesoura\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.exe
+C:\Users\Tiago\Tiago\Etec\PA\Pedra Papel Tesoura\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.pdb
+C:\Users\Tiago\Tiago\Etec\PA\arquivos de recuperação\Pedra Papel Tesoura - Copia\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\bin\Debug\Pedra Papel Tesoura Project.exe.config
+C:\Users\Tiago\Tiago\Etec\PA\arquivos de recuperação\Pedra Papel Tesoura - Copia\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\bin\Debug\Pedra Papel Tesoura Project.exe
+C:\Users\Tiago\Tiago\Etec\PA\arquivos de recuperação\Pedra Papel Tesoura - Copia\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\bin\Debug\Pedra Papel Tesoura Project.pdb
+C:\Users\Tiago\Tiago\Etec\PA\arquivos de recuperação\Pedra Papel Tesoura - Copia\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.csprojResolveAssemblyReference.cache
+C:\Users\Tiago\Tiago\Etec\PA\arquivos de recuperação\Pedra Papel Tesoura - Copia\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra_Papel_Tesoura_Project.MainForm.resources
+C:\Users\Tiago\Tiago\Etec\PA\arquivos de recuperação\Pedra Papel Tesoura - Copia\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.csproj.GenerateResource.Cache
+C:\Users\Tiago\Tiago\Etec\PA\arquivos de recuperação\Pedra Papel Tesoura - Copia\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.exe
+C:\Users\Tiago\Tiago\Etec\PA\arquivos de recuperação\Pedra Papel Tesoura - Copia\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.pdb
+E:\etec\Programação e Algoritimo\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\bin\Debug\Pedra Papel Tesoura Project.exe.config
+E:\etec\Programação e Algoritimo\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\bin\Debug\Pedra Papel Tesoura Project.exe
+E:\etec\Programação e Algoritimo\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\bin\Debug\Pedra Papel Tesoura Project.pdb
+E:\etec\Programação e Algoritimo\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.csprojResolveAssemblyReference.cache
+E:\etec\Programação e Algoritimo\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra_Papel_Tesoura_Project.MainForm.resources
+E:\etec\Programação e Algoritimo\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.csproj.GenerateResource.Cache
+E:\etec\Programação e Algoritimo\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.exe
+E:\etec\Programação e Algoritimo\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.pdb
+F:\etec\Programação e Algoritimo\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\bin\Debug\Pedra Papel Tesoura Project.exe.config
+F:\etec\Programação e Algoritimo\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\bin\Debug\Pedra Papel Tesoura Project.exe
+F:\etec\Programação e Algoritimo\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\bin\Debug\Pedra Papel Tesoura Project.pdb
+F:\etec\Programação e Algoritimo\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.csprojResolveAssemblyReference.cache
+F:\etec\Programação e Algoritimo\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra_Papel_Tesoura_Project.MainForm.resources
+F:\etec\Programação e Algoritimo\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.csproj.GenerateResource.Cache
+F:\etec\Programação e Algoritimo\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.exe
+F:\etec\Programação e Algoritimo\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.pdb
+C:\Users\aluno.etec\Desktop\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\bin\Debug\Pedra Papel Tesoura Project.exe.config
+C:\Users\aluno.etec\Desktop\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\bin\Debug\Pedra Papel Tesoura Project.exe
+C:\Users\aluno.etec\Desktop\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\bin\Debug\Pedra Papel Tesoura Project.pdb
+C:\Users\aluno.etec\Desktop\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.csprojResolveAssemblyReference.cache
+C:\Users\aluno.etec\Desktop\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra_Papel_Tesoura_Project.MainForm.resources
+C:\Users\aluno.etec\Desktop\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.csproj.GenerateResource.Cache
+C:\Users\aluno.etec\Desktop\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.exe
+C:\Users\aluno.etec\Desktop\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.pdb
+E:\etec\Programação e Algoritimo\teste\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\bin\Debug\Pedra Papel Tesoura Project.exe.config
+E:\etec\Programação e Algoritimo\teste\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\bin\Debug\Pedra Papel Tesoura Project.exe
+E:\etec\Programação e Algoritimo\teste\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\bin\Debug\Pedra Papel Tesoura Project.pdb
+E:\etec\Programação e Algoritimo\teste\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.csprojResolveAssemblyReference.cache
+E:\etec\Programação e Algoritimo\teste\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra_Papel_Tesoura_Project.MainForm.resources
+E:\etec\Programação e Algoritimo\teste\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.csproj.GenerateResource.Cache
+E:\etec\Programação e Algoritimo\teste\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.exe
+E:\etec\Programação e Algoritimo\teste\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.pdb
+D:\etec\Programação e Algoritimo\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\bin\Debug\Pedra Papel Tesoura Project.exe.config
+D:\etec\Programação e Algoritimo\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\bin\Debug\Pedra Papel Tesoura Project.exe
+D:\etec\Programação e Algoritimo\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\bin\Debug\Pedra Papel Tesoura Project.pdb
+D:\etec\Programação e Algoritimo\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.csprojResolveAssemblyReference.cache
+D:\etec\Programação e Algoritimo\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra_Papel_Tesoura_Project.MainForm.resources
+D:\etec\Programação e Algoritimo\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.csproj.GenerateResource.Cache
+D:\etec\Programação e Algoritimo\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.exe
+D:\etec\Programação e Algoritimo\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.pdb
+C:\Users\silva\OneDrive\Área de Trabalho\ETEC\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\bin\Debug\Pedra Papel Tesoura Project.exe.config
+C:\Users\silva\OneDrive\Área de Trabalho\ETEC\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\bin\Debug\Pedra Papel Tesoura Project.exe
+C:\Users\silva\OneDrive\Área de Trabalho\ETEC\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\bin\Debug\Pedra Papel Tesoura Project.pdb
+C:\Users\silva\OneDrive\Área de Trabalho\ETEC\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.csprojResolveAssemblyReference.cache
+C:\Users\silva\OneDrive\Área de Trabalho\ETEC\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra_Papel_Tesoura_Project.MainForm.resources
+C:\Users\silva\OneDrive\Área de Trabalho\ETEC\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.csproj.GenerateResource.Cache
+C:\Users\silva\OneDrive\Área de Trabalho\ETEC\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.exe
+C:\Users\silva\OneDrive\Área de Trabalho\ETEC\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\Pedra Papel Tesoura Project\obj\Debug\Pedra Papel Tesoura Project.pdb
